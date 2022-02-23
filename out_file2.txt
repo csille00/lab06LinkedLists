@@ -1,0 +1,17 @@
+size 0
+printList
+  
+at 0 out_of_range
+at 1 out_of_range
+insertTail lazy
+size 2
+printList
+  lazy
+insertHead lazy
+size 2
+printList
+  lazy
+insertAfter dog. lazyy
+size 2
+printList
+  lazy
